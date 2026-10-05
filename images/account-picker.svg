@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 900" width="760" height="900" role="img" aria-labelledby="title desc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <title id="title">Teams account picker listing old accounts</title>
+  <desc id="desc">Illustration of the "Pick an account to continue" screen with five remembered accounts. All names and addresses are placeholders.</desc>
+
+  <rect width="760" height="900" fill="#ececee"/>
+  <rect x="30" y="20" width="700" height="860" rx="8" fill="#f5f5f5" stroke="#dedede"/>
+
+  <text x="380" y="104" text-anchor="middle" font-size="27" font-weight="700" fill="#242424">Welcome to Teams</text>
+  <text x="380" y="152" text-anchor="middle" font-size="20" fill="#242424">Pick an account to continue</text>
+
+  <!-- Selected row -->
+  <rect x="158" y="199" width="444" height="82" rx="4" fill="#ebebeb" stroke="#111111" stroke-width="2.5"/>
+
+  <g font-size="17" font-weight="600" fill="#616161" text-anchor="middle">
+    <circle cx="192" cy="240" r="28" fill="#dcdcdc"/><text x="192" y="246">AC</text>
+    <circle cx="192" cy="322" r="28" fill="#e3e3e3"/><text x="192" y="328">AC</text>
+    <circle cx="192" cy="404" r="28" fill="#e3e3e3"/><text x="192" y="410">AC</text>
+    <circle cx="192" cy="486" r="28" fill="#e3e3e3"/><text x="192" y="492">AT</text>
+    <circle cx="192" cy="568" r="28" fill="#e3e3e3"/><text x="192" y="574">SL</text>
+  </g>
+
+  <g font-size="20" fill="#242424">
+    <text x="232" y="233">Alex Chen</text>
+    <text x="232" y="315">Alex Chen</text>
+    <text x="232" y="397">Alex Chen</text>
+    <text x="232" y="479">alex testing</text>
+    <text x="232" y="561">Sam Lee</text>
+  </g>
+  <g font-size="18" fill="#616161">
+    <text x="232" y="260">alex.chen@example.com</text>
+    <text x="232" y="342">alex.chen@former-employer.example</text>
+    <text x="232" y="424">achen@old-client.example</text>
+    <text x="232" y="506">test@old-project.example</text>
+    <text x="232" y="588">sam.lee@former-employer.example</text>
+  </g>
+
+  <!-- Add account -->
+  <circle cx="192" cy="668" r="28" fill="#5b5fc7"/>
+  <g fill="none" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round">
+    <circle cx="189" cy="660" r="6.5"/>
+    <path d="M177 680c0-6.5 5-10 12-10 2.6 0 4.9 0.5 6.8 1.5"/>
+    <path d="M202 673v10M197 678h10"/>
+  </g>
+  <text x="232" y="676" font-size="22" font-weight="600" fill="#4f52b2">Create or use another account</text>
+
+  <line x1="140" y1="730" x2="345" y2="730" stroke="#d1d1d1"/>
+  <text x="380" y="736" text-anchor="middle" font-size="16" fill="#616161">or</text>
+  <line x1="415" y1="730" x2="620" y2="730" stroke="#d1d1d1"/>
+
+  <rect x="140" y="762" width="480" height="64" rx="4" fill="#ffffff" stroke="#d1d1d1"/>
+  <text x="380" y="801" text-anchor="middle" font-size="21" font-weight="600" fill="#242424">Join a meeting</text>
+</svg>

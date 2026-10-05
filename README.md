@@ -6,6 +6,10 @@ A small script that removes old Microsoft accounts from the "Pick an account" li
 
 Teams on macOS keeps showing accounts you no longer use: former employers, test tenants, a colleague who once signed in on your Mac. They stay in the account picker for years, and the usual fixes do not remove them:
 
+<img src="images/account-picker.svg" alt="Teams account picker listing old accounts" width="420">
+
+*Illustration only. The names and addresses are placeholders.*
+
 - Deleting Teams and reinstalling it
 - Clearing the Teams cache folders
 - Deleting the `OneAuthAccount` entries from the login keychain
