@@ -117,3 +117,7 @@ On this setup the cleanup steps were first run by hand and removed four stale ac
 - In **Keychain Access**, select **Local Items**, quit all Microsoft apps, then search for and delete items whose names start with `accesstoken-`, `refreshtoken-` and `idtoken-`.
 
 Use this script when those do not work.
+
+## License
+
+[MIT](LICENSE)
